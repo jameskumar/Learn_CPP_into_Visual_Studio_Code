@@ -23,6 +23,11 @@ $ g++ -std=c++11 -g test.cpp -o test
 
 >> 201103
 
+$ g++ -std=c++14 -g test.cpp -o test
+
+>> 201402
+
+
 $ g++ -std=c++17 -g test.cpp -o test
 
 >> 201703

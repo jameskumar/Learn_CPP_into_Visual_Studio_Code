@@ -9,7 +9,8 @@ https://code.visualstudio.com/docs/cpp/config-mingw#_cc-configurations
 ## C++ std versions
 
 $ g++  --version
-g++.exe (x86_64-win32-seh-rev0, Built by MinGW-W64 project) 8.1.0
+
+>> g++.exe (x86_64-win32-seh-rev0, Built by MinGW-W64 project) 8.1.0
 Copyright (C) 2018 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.

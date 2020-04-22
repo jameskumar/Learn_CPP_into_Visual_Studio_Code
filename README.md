@@ -119,3 +119,9 @@ https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/re
 https://git-scm.com/docs/git-merge
 
 https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts
+
+### git ignore
+
+https://git-scm.com/docs/gitignore
+
+

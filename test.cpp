@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Test Program 1" << endl;
-    cout << "Test Program 2" << endl;
+    cout << "Test Program" << endl;
+    cout << "cpp std version date : " << __cplusplus << endl;
     return 0;
 }

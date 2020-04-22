@@ -18,9 +18,9 @@ https://code.visualstudio.com/docs/cpp/config-mingw#_cc-configurations
 
 > git remote add  origin https://xyz.git
 
-> git config --global user.name "jameskumar" 
+> git config --global user.name "pqrs" 
 
-> git config --global user.email "james.sonam1@gmail.com"
+> git config --global user.email "abc@gmail.com"
 
 > git pull origin master
 
